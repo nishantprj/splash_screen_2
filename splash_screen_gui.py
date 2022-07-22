@@ -1,5 +1,4 @@
 #importing library
-from cProfile import label
 from tkinter import *
 from tkinter import font
 from PIL import ImageTk, Image 
